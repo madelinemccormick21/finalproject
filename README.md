@@ -5,7 +5,7 @@
 This repository includes the BRFSS 2021 dataset, binary logistic regression model, and R markdown code used to analyze it. The project is part 
 of an analysis of weight bias as it is associated with having a ehalthcare provider.
 ## Files Included
-- `BRFSS 2021`: BRFSS 2021 dataset
+- `BRFSS 2021`: BRFSS 2021 dataset: download here as it is too large to add to github, even when zipped https://www.cdc.gov/brfss/annual_data/annual_2021.html
 - `ADA_FinalProject_code.rmd`: R script used to summarize and visualize the data
 - `README.md`: This file
 
